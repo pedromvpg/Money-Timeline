@@ -5,15 +5,40 @@
 <head>
 
   <meta charset="utf-8">
-  <title>Money: A Timeline</title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/fav/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/fav/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/fav/favicon-16x16.png">
+  <link rel="manifest" href="/assets/fav/site.webmanifest">
+
+  <title>Timeline of Money | The Anatomy of Bitcoin</title>
 
   <meta name="description" content="Compilation of relevant events in the histoy of humanity's moneys.">
+
+  <meta itemprop="name" content="Timeline of Money | The Anatomy of Bitcoin">
+  <meta itemprop="description" content="An open-source bitcoin film on the engineering of time and truth. Support the project by becoming a contributor or a producer.">
+  <meta itemprop="image" content="https://timelineofmoney.com/assets/preview.png">
+  <meta name="description" content="An open-source bitcoin film on the engineering of time and truth. Support the project by becoming a contributor or a producer."/>
+  <meta property="og:image" content="https://timelineofmoney.com/assets/preview.png"/>
+  <meta property="og:image:type" content="image/png"/>
+  <meta property="og:image:width" content="1000"/>
+  <meta property="og:image:height" content="500"/>
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:site" content="@bitcoinanatomy">
+  <meta property="twitter:creator" content="@bitcoinanatomy">
+  <meta property="twitter:title" content="Timeline of Money | The Anatomy of Bitcoin">
+  <meta property="twitter:description" content="Compilation of relevant events in the histoy of humanity's moneys."/>
+  <meta property="twitter:image:src" content="https://timelineofmoney.com/assets/preview.png"/>
+  <meta property="twitter:domain" content="timelineofmoney.com">
 
   <meta property="og:image" content="https://developer.mozilla.org/static/img/opengraph-logo.png">
   <meta property="og:description" content="Compilation of relevant events in the histoy of humanity's moneys.">
   <meta property="og:title" content="Money: A Timeline">
 
   <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+
+  <script src="data_header.js"></script>
+  <script src="data.js"></script>
   <script src="scripts.js"></script>
 
   <link rel="stylesheet" href="style.css">
@@ -24,31 +49,53 @@
 
 <body class="drag">
 
-
+  <div id="branding">
+      <a id="branding1" target="_blank" href="https://anatomyofbitcoin.com">
+        <img src="assets/aob-logo1-w.svg">
+      </a>
+      <a id="branding2" target="_blank" href="https://anatomyofbitcoin.com">
+        <img src="assets/aob-logo2-w.svg">
+      </a>
+  </div>
   <h1>
-    Money: A Timeline
+    Timeline of Money
   </h1>
 
+
+  <!--
   <div id="zoom">
     <div id="zoomIN">zoom in</div>
     <div id="zoomOUT">zoom out</div>
   </div>
   <div id="image-cover"></div>
+  -->
 
   <table>
     <thead>
-      <tr class="red">
+      <tr class="header full-width">
+        <!--
         <th>
           <img class="header full-width" src="assets/header.svg" />
+        </th>
+        -->
+        <th id="header-item-holder">
+          <img class="header full-width" height="0" src="assets/header-spacer.svg" />
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
-          <img class="timeline full-width" src="assets/timeline_10.svg" />
+          <!--<img class="timeline full-width" src="assets/timeline_10.svg" />-->
         </td>
       </tr>
+
+
+      <tr>
+        <td id="item-holder" class="full-width">
+        </td>
+      </tr>
+
     </tbody>
   </table>
 
