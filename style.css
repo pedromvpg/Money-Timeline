@@ -150,7 +150,7 @@ th {
   margin-left: -25px;
 }
 
-#header-item-holder .timeline-element {
+#header-item-holder .event-element-inner {
   padding-top: 0px;
 }
 
@@ -162,7 +162,7 @@ th {
 }
 
 
-.timeline-element {
+.event-element-inner {
   display: block;
   width: 50%;
   max-width: 500px;
@@ -219,4 +219,37 @@ th {
   width: 100vw;
   height: 100vh;
   z-index:10;
+}
+
+
+
+
+
+
+
+#extras {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  color: #fff;
+  background: #000;
+  width: 100%;
+}
+
+#filters{
+  width: 100%;
+  padding: 10px;
+}
+
+.filter-trigger{
+  padding: 3px;
+  margin: 3px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+.event-element.highlighted .event-element-inner, .filter-trigger.highlighted{
+  background: #fff;
+  color: #000
 }

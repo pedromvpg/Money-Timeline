@@ -1,5 +1,12 @@
 $( document ).ready(function() {
 
+
+  function removeDuplicate(array, key) {
+    var check = new Set();
+    return array.filter(obj => !check.has(obj[key]) && check.add(obj[key]));
+  }
+
+
   /*
   var max = 10000;
   var min = 1000;
@@ -66,7 +73,7 @@ $( document ).ready(function() {
 
     items.push(
       `<li id='header-${key}' class="header-label" style='padding-left: ${shift}%' >
-        <div class='timeline-element'>
+        <div class='event-element-inner'>
           <h4 class="element-name">${val.name}</h4>
           <div class="element-dates">${Math.abs(val.dates)}</div>
           <div class="element-description">${val.description}</div>
@@ -88,6 +95,8 @@ $( document ).ready(function() {
 
 
   items = [];
+  filters = [];
+  unique = [];
 
   $.each( timelineData, function( key, val ) {
     //console.log(val);
@@ -120,9 +129,24 @@ $( document ).ready(function() {
     shift = 196.792-175.283*Math.log10(Math.log10(2051-date)+3.5662);
 
 
+
+    // Themes
+    let regex = /,/g;
+    let classes = val.theme;
+    let filterHolder = [];
+    classes = classes.replace(regex, " ");
+    classes = classes.replace("  ", " ");
+    filterHolder = classes.split(/(\s+)/);
+    $.each(filterHolder, function( i, val ) {
+      if(val != " " && val != ""){
+        filters.push({ html:'<div class="filter-trigger" data-theme="'+val+'">'+val+'</a>' });
+      }
+    });
+
+
     items.push(
-      `<li id='${key}' style='padding-left: ${shift}%' >
-        <div class='timeline-element'>
+      `<li id='${key}' style='padding-left: ${shift}%' class='event-element ${classes}'>
+        <div class='event-element-inner'>
           ${image1} ${image2}
           <h3 class="element-name">${val.name}</h3>
           <div class="element-dates">${val.dates}</div>
@@ -131,7 +155,6 @@ $( document ).ready(function() {
         </div>
       </li>`
     );
-
 
 
   });
@@ -147,6 +170,29 @@ $( document ).ready(function() {
   $('ul').on('click','.enlarged', function(){
      $(this).removeClass('enlarged');
   });
+
+
+
+
+
+  //DO DO
+  // Filter, highlight by themes
+  // animates scroll to index 1
+  cleanFilter = removeDuplicate(filters, 'html');
+  $.each( cleanFilter, function( i, val ) {
+    $('#filters-inner').append(val.html);
+  });
+
+  $('#filters-inner').on('click','.filter-trigger', function(){
+     $('.filter-trigger').removeClass('highlighted');
+     $(this).addClass('highlighted')
+     $('.event-element').removeClass('highlighted');
+     $('.event-element.'+$(this).attr('data-theme')).addClass('highlighted');
+  });
+
+
+
+
 
 
   /*
@@ -168,6 +214,7 @@ $( document ).ready(function() {
   });
 
   */
+
 
 
 
