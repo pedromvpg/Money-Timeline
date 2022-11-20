@@ -146,7 +146,7 @@ $( document ).ready(function() {
 
     items.push(
       `<li id='${key}' style='padding-left: ${shift}%' class='event-element ${classes}'>
-        <div class='event-element-inner'>
+        <div id='event-${key}' class='event-element-inner'>
           ${image1} ${image2}
           <h3 class="element-name">${val.name}</h3>
           <div class="element-dates">${val.dates}</div>
