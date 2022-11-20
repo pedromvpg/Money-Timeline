@@ -1,6 +1,14 @@
 $( document ).ready(function() {
 
 
+
+  $('html').on('mousewheel DOMMouseScroll', function(event){
+      //event.preventDefault();
+      var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
+      $(this).scrollLeft( $(this).scrollLeft() - ( delta  ) );
+  });
+
+
   function removeDuplicate(array, key) {
     var check = new Set();
     return array.filter(obj => !check.has(obj[key]) && check.add(obj[key]));

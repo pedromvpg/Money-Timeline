@@ -50,7 +50,7 @@ a {
 }
 
 h1{
-  width:100%;
+  width: 100vw;
   position: fixed;
   text-align: center;
   z-index:100;
@@ -79,7 +79,7 @@ body.dark .header{
   padding-bottom: 50vh;
 }
 table {
-  margin: autor;
+  margin: auto;
   text-align: left;
   position: relative;
   border-collapse: collapse;
@@ -99,7 +99,7 @@ th {
 
 #branding {
   position: fixed;
-  width: 100%;
+  width: 100vw;
   z-index: 1000;
 }
 #branding #branding1 {
@@ -252,4 +252,25 @@ th {
 .event-element.highlighted .event-element-inner, .filter-trigger.highlighted{
   background: #fff;
   color: #000
+}
+
+
+
+@media only screen and (max-width: 700px) {
+  #branding #branding1 img, #branding #branding2 img {
+      height: 27px;
+  }
+  h1 {
+    font-size: 23px;
+    top: -2px;
+  }
+  #header-item-holder ul {
+    margin-top: 10px;
+  }
+  #header-item-holder .event-element-inner {
+    margin-top: 0px;
+  }
+  .element-description {
+    max-width: 90vw;
+  }
 }
