@@ -2,7 +2,7 @@ $( document ).ready(function() {
 
 
 
-  $('html').on('mousewheel DOMMouseScroll', function(event){
+  $('html').on('mousewheel DOMMouseScroll scroll', function(event){
       //event.preventDefault();
       var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
       $(this).scrollLeft( $(this).scrollLeft() - ( delta  ) );
