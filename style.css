@@ -267,6 +267,7 @@ th {
     font-size: 23px;
     top: -2px;
     text-align: right;
+    max-width: 60vw;
   }
   #header-item-holder ul {
     margin-top: 10px;
