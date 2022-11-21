@@ -4989,7 +4989,7 @@ timelineData =
    "dates": "May 18–20, 2023",
    "location": "Florida, USA",
    "description": "The biggest bitcoin conference of the world",
-   "src1": "https://b.tc/conference",
+   "src1": "https://b.tc/conference?source=timelineofmoney.com",
    "src2": "",
    "image1src": "https://assets-global.website-files.com/629f8b813dd89dd8311674e3/62a14582453871b8bdb181fa_bitcoin2023-logo_light.svg",
    "image1": "",
