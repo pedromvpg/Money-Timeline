@@ -2,6 +2,38 @@ $( document ).ready(function() {
 
 
 
+  var curIndex = 0;
+  $("#prev").click(function() {
+    if(curIndex > 0){
+      curIndex = curIndex - 1;
+      $([document.documentElement, document.body]).animate({
+          scrollTop: $("#event-"+curIndex).offset().top - $(window).height() / 3,
+          scrollLeft: $("#event-"+curIndex).offset().left - $(window).width() / 3
+      }, 500);
+    }
+  });
+  $("#next").click(function() {
+    if(curIndex < $('.event-element').length ){
+      curIndex = curIndex + 1;
+      $([document.documentElement, document.body]).animate({
+          scrollTop: $("#event-"+curIndex).offset().top - $(window).height() / 3,
+          scrollLeft: $("#event-"+curIndex).offset().left - $(window).width() / 3
+      }, 500);
+    }
+  });
+
+  $(window).keypress(function (e) {
+    if (e.keyCode === 0 || e.keyCode === 32) {
+      if(curIndex < $('.event-element').length ){
+        curIndex = curIndex + 1;
+        $([document.documentElement, document.body]).animate({
+            scrollTop: $("#event-"+curIndex).offset().top - $(window).height() / 3,
+            scrollLeft: $("#event-"+curIndex).offset().left - $(window).width() / 3
+        }, 500);
+      }
+    }
+  });
+
   $('html').on('mousewheel DOMMouseScroll scroll', function(event){
       //event.preventDefault();
       var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
