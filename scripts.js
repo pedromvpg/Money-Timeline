@@ -51,7 +51,7 @@ $( document ).ready(function() {
         $(this).scrollLeft( $(this).scrollLeft() - ( delta * 2) );
         //console.log("---> *2");
       }else if($(window).scrollTop() >= 10000){
-        $(this).scrollLeft( $(this).scrollLeft() - ( delta / 0.8) );
+        $(this).scrollLeft( $(this).scrollLeft() - ( delta / 1.5) );
         //console.log("---> *1");
       }
   });
