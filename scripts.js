@@ -5,7 +5,23 @@ $( document ).ready(function() {
   $('html').on('mousewheel DOMMouseScroll scroll', function(event){
       //event.preventDefault();
       var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
-      $(this).scrollLeft( $(this).scrollLeft() - ( delta  ) );
+      //console.log($(window).scrollTop());
+      if($(window).scrollTop() < 3000){
+        //$(this).scrollLeft( $(this).scrollLeft() - ( delta / 2 ) );
+        //console.log("---> 0");
+      }else if($(window).scrollTop() >= 3800 && $(window).scrollTop() < 4600){
+        $(this).scrollLeft( $(this).scrollLeft() - ( delta * 2 ) );
+        //console.log("---> *2");
+      }else if($(window).scrollTop() >= 4600 && $(window).scrollTop() < 4800){
+        $(this).scrollLeft( $(this).scrollLeft() - ( delta * 8 ) );
+        //console.log("---> *8");
+      }else if($(window).scrollTop() >= 4800 && $(window).scrollTop() < 10000){
+        $(this).scrollLeft( $(this).scrollLeft() - ( delta * 2) );
+        //console.log("---> *2");
+      }else if($(window).scrollTop() >= 10000){
+        $(this).scrollLeft( $(this).scrollLeft() - ( delta ) );
+        //console.log("---> *1");
+      }
   });
 
 
