@@ -1,7 +1,6 @@
 timelineData =
 [
  {
-   "left_shift": "0.2",
    "date_coord": "-4600000000",
    "name": "Formation of the Sun",
    "theme": "Environment",
@@ -18,7 +17,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "0.25",
    "date_coord": "-4500000000",
    "name": "Formation of the Earth and Moon",
    "theme": "Environment",
@@ -35,7 +33,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "0.27",
    "date_coord": "-4000000000",
    "name": "Origins of water",
    "theme": "Environment",
@@ -52,7 +49,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "0.3",
    "date_coord": "-4000000000",
    "name": "Precambrian - Archean",
    "theme": "Environment",
@@ -69,7 +65,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "0.35",
    "date_coord": "-3500000000",
    "name": "Single cell life",
    "theme": "Environment",
@@ -86,7 +81,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "0.38",
    "date_coord": "-3500000000",
    "name": "Earliest free oxygen",
    "theme": "Environment",
@@ -103,7 +97,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3400000000",
    "name": "Stromatolites from Archaean rocks",
    "theme": "Environment",
@@ -120,7 +113,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3400000000",
    "name": "Multicellular life",
    "theme": "Environment",
@@ -137,7 +129,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2500000000",
    "name": "Precambrian - Proterozoic",
    "theme": "Environment",
@@ -154,7 +145,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2400000000",
    "name": "Great Oxidation Event",
    "theme": "Environment",
@@ -171,7 +161,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2400000000",
    "name": "Fungi",
    "theme": "Environment",
@@ -188,7 +177,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-750000000",
    "name": "Amoebae diversification",
    "theme": "Environment",
@@ -205,7 +193,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-630000000",
    "name": "Plants",
    "theme": "Environment",
@@ -222,7 +209,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-630000000",
    "name": "Animals",
    "theme": "Environment",
@@ -239,7 +225,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-600000000",
    "name": "Multicellular organism fossil",
    "theme": "Environment",
@@ -256,7 +241,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-530000000",
    "name": "First vertebrates",
    "theme": "Environment",
@@ -273,7 +257,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-225000000",
    "name": "First mammals",
    "theme": "Environment",
@@ -290,7 +273,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-201300000",
    "name": "Jurassic",
    "theme": "Environment",
@@ -307,7 +289,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-85000000",
    "name": "Earliest primates",
    "theme": "Environment",
@@ -324,7 +305,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-80000000",
    "name": "Earliest apes",
    "theme": "Environment",
@@ -341,7 +321,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-10000000",
    "name": "Gorilla split",
    "theme": "Environment",
@@ -358,7 +337,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-8000000",
    "name": "Chimpanzee split",
    "theme": "Environment",
@@ -375,7 +353,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3500000",
    "name": "Little Foot",
    "theme": "Environment",
@@ -392,7 +369,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3300000",
    "name": "Earliest stone tools",
    "theme": "Technology",
@@ -409,7 +385,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2310000",
    "name": "Homo Habilis",
    "theme": "Environment",
@@ -426,7 +401,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2000000",
    "name": "Homo Erectus",
    "theme": "Environment",
@@ -443,7 +417,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1700000",
    "name": "Earliest fire in Africa",
    "theme": "Environment",
@@ -460,7 +433,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-800000",
    "name": "Earliest fire in Europe",
    "theme": "Environment",
@@ -477,7 +449,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-300000",
    "name": "Homo Sapiens",
    "theme": "Environment",
@@ -494,7 +465,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-155000",
    "name": "Mitochondrial Eve",
    "theme": "Environment",
@@ -511,7 +481,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-75000",
    "name": "Shells Beads",
    "theme": "Money",
@@ -528,7 +497,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-73000",
    "name": "Oldest known drawing by human hands",
    "theme": "Language",
@@ -545,7 +513,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-40000",
    "name": "Ostrich-eggshell beads",
    "theme": "Money",
@@ -562,7 +529,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "38",
    "date_coord": "-35000",
    "name": "Lebombo bone",
    "theme": "Language",
@@ -579,7 +545,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "38",
    "date_coord": "-35000",
    "name": "Venus of Hohle Fels",
    "theme": "Language",
@@ -596,7 +561,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-29000",
    "name": "Venus of Dolní Vestonice",
    "theme": "Language",
@@ -613,7 +577,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-28000",
    "name": "Necklace from a burial",
    "theme": "Money",
@@ -630,7 +593,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-27000",
    "name": "Wolf bone",
    "theme": "Language",
@@ -647,7 +609,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-27000",
    "name": "Stencil of human hand",
    "theme": "Language",
@@ -664,7 +625,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-25300",
    "name": "Stone slab drawings",
    "theme": "Language",
@@ -681,7 +641,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-17000",
    "name": "Lascaux decorated cave",
    "theme": "Language",
@@ -698,7 +657,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-15000",
    "name": "Fragments of pots, Xianrendong cave",
    "theme": "Language",
@@ -715,7 +673,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-14800",
    "name": "Winnemucca Lake petroglyphs",
    "theme": "Language",
@@ -732,7 +689,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-14000",
    "name": "Mammoth Ivory Map",
    "theme": "Language",
@@ -749,7 +705,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-10000",
    "name": "Bhimbetka rock art",
    "theme": "Language",
@@ -766,7 +721,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-10000",
    "name": "Magura Cave",
    "theme": "Language",
@@ -783,7 +737,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-8000",
    "name": "Counting Tokens",
    "theme": "Language",
@@ -800,7 +753,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-7300",
    "name": "The Cuevas de las Manos Santa",
    "theme": "Language",
@@ -817,7 +769,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-6000",
    "name": "Jiahu symbols",
    "theme": "Language",
@@ -834,7 +785,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-6000",
    "name": "Grotta dei Cervi",
    "theme": "Language",
@@ -851,7 +801,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-4000",
    "name": "Globular envelope",
    "theme": "Money",
@@ -868,7 +817,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3500",
    "name": "The Kish tablet",
    "theme": "Language",
@@ -885,7 +833,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3320",
    "name": "The Earliest Known Egyptian Writing",
    "theme": "Language",
@@ -902,7 +849,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3200",
    "name": "Economical tablet in Proto-Elamite script",
    "theme": "Money",
@@ -919,7 +865,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3130",
    "name": "Ljubljana Marshes Wheel",
    "theme": "Technology",
@@ -936,7 +881,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3100",
    "name": "Impressed tablet from Godin Tepe",
    "theme": "Money",
@@ -953,7 +897,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-3100",
    "name": "Stonehenge",
    "theme": "Language",
@@ -970,7 +913,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "50",
    "date_coord": "-2600",
    "name": "First Securely Datable Mathematical Table",
    "theme": "Language",
@@ -987,7 +929,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2500",
    "name": "Silver ring and coil money",
    "theme": "Money",
@@ -1004,7 +945,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2291",
    "name": "The Earliest Printing",
    "theme": "Technology",
@@ -1021,7 +961,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2200",
    "name": "First Iron",
    "theme": "Technology",
@@ -1038,7 +977,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-2000",
    "name": "Phaistos Disc",
    "theme": "Language",
@@ -1055,7 +993,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1800",
    "name": "Dynastic list",
    "theme": "Language",
@@ -1072,7 +1009,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1750",
    "name": "Code of Hammurab",
    "theme": "Language, Fiat",
@@ -1089,7 +1025,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1580",
    "name": "Gold cowries",
    "theme": "Money",
@@ -1106,7 +1041,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1580",
    "name": "Gold dog",
    "theme": "Money",
@@ -1123,7 +1057,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1280",
    "name": "Assyrian gold tablet",
    "theme": "Language",
@@ -1140,7 +1073,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-1100",
    "name": "First Smelting of Iron",
    "theme": "Technology",
@@ -1157,7 +1089,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-700",
    "name": "Greek drachma of Aegina",
    "theme": "Money",
@@ -1174,7 +1105,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-625",
    "name": "Lydian Electrum Coin",
    "theme": "Money",
@@ -1191,7 +1121,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "50",
    "date_coord": "-610",
    "name": "Electrum stater",
    "theme": "Money",
@@ -1208,7 +1137,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-600",
    "name": "Chi tao",
    "theme": "Money",
@@ -1225,7 +1153,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-600",
    "name": "The Croesus Stater",
    "theme": "Money",
@@ -1242,7 +1169,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "50",
    "date_coord": "-560",
    "name": "Gold stater",
    "theme": "Money",
@@ -1259,7 +1185,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-545",
    "name": "The earliest coinage of Athens",
    "theme": "Money",
@@ -1276,7 +1201,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-545",
    "name": "Athenian silver didrachm",
    "theme": "Money",
@@ -1293,7 +1217,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-510",
    "name": "Archaic coin of Athens",
    "theme": "Money",
@@ -1310,7 +1233,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-500",
    "name": "Lady Aigai, Wife of Amyntas I, king of Macedon Tomb",
    "theme": "Money",
@@ -1327,7 +1249,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-500",
    "name": "Amyntas I Coinage",
    "theme": "Money",
@@ -1344,7 +1265,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-500",
    "name": "Scytale (replica)",
    "theme": "Technology",
@@ -1361,7 +1281,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-480",
    "name": "BCE Demareteion Coin",
    "theme": "Money",
@@ -1378,7 +1297,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-478",
    "name": "Maya Mural Depicts Salt Trade",
    "theme": "Money",
@@ -1395,7 +1313,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-475",
    "name": "Analects",
    "theme": "Language",
@@ -1412,7 +1329,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-430",
    "name": "Histories",
    "theme": "Language",
@@ -1429,7 +1345,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-400",
    "name": "Earliest known currency from Jerusalem",
    "theme": "Money",
@@ -1446,7 +1361,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-361",
    "name": "Persian Empire, Satrapy of Cilicia, Mazaios, Stater",
    "theme": "Money",
@@ -1463,7 +1377,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-350",
    "name": "Aristotle defines money",
    "theme": "Money",
@@ -1480,7 +1393,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-209",
    "name": "Roman coin from Canusium",
    "theme": "Money",
@@ -1497,7 +1409,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-200",
    "name": "Celtic silver coin",
    "theme": "Money",
@@ -1514,7 +1425,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-196",
    "name": "The Rosetta Stone",
    "theme": "Language",
@@ -1531,7 +1441,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-126",
    "name": "The Shekel of Tyre",
    "theme": "Money",
@@ -1548,7 +1457,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-115",
    "name": "Silver Drachm of Indo-Greek Ruler Antialcidas",
    "theme": "Money",
@@ -1565,7 +1473,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-100",
    "name": "Widow’s mite",
    "theme": "Money",
@@ -1582,7 +1489,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "-20",
    "name": "COMMI F EPPILLV Coin",
    "theme": "Money",
@@ -1599,7 +1505,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "14",
    "name": "A denarius of Tiberius",
    "theme": "Money",
@@ -1616,7 +1521,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "75",
    "name": "Euclid's Elements",
    "theme": "Technology",
@@ -1633,7 +1537,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "100",
    "name": "Roman Abacus",
    "theme": "Technology",
@@ -1650,7 +1553,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "186",
    "name": "Wu shu-coin",
    "theme": "Money",
@@ -1667,7 +1569,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "224",
    "name": "Gold double denar of Ardashir I",
    "theme": "Money",
@@ -1684,7 +1585,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "240",
    "name": "Antoninianus",
    "theme": "Money",
@@ -1701,7 +1601,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "253",
    "name": "This Aemilian double-denarius",
    "theme": "Money",
@@ -1718,7 +1617,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "260",
    "name": "Sestertius",
    "theme": "Money",
@@ -1735,7 +1633,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "267",
    "name": "This Gallienus double-denarius",
    "theme": "Money",
@@ -1752,7 +1649,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "270",
    "name": "A gold coin depicting the Roman emperor Aurelian",
    "theme": "Money",
@@ -1769,7 +1665,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "375",
    "name": "Gupta Empire, Chandragupta II, Dinar",
    "theme": "Money",
@@ -1786,7 +1681,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "400",
    "name": "Germanic Tribe Pseudo-Imperial coinage",
    "theme": "Money",
@@ -1803,7 +1697,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "420",
    "name": "Sassanid Empire, Bahram V, Drach",
    "theme": "Money",
@@ -1820,7 +1713,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "474",
    "name": "Soapstone jar with 300 gold coins",
    "theme": "Money",
@@ -1837,7 +1729,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "602",
    "name": "Phocas, Semissis",
    "theme": "Money",
@@ -1854,7 +1745,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "685",
    "name": "Umayyad Empire, Abd al-Malik, Fals",
    "theme": "Money",
@@ -1871,7 +1761,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "700",
    "name": "English Kingdoms, Primary Sceat",
    "theme": "Money",
@@ -1888,7 +1777,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "712",
    "name": "Coin of Farrukhan the Great",
    "theme": "Money",
@@ -1905,7 +1793,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "715",
    "name": "Theodosius III",
    "theme": "Money",
@@ -1922,7 +1809,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "770",
    "name": "Sasanian-style silver half-dirham minted during Khalid ibn Barmak's governorship of Tabaristan,",
    "theme": "Money",
@@ -1939,7 +1825,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "787",
    "name": "Abbasid Empire, Governorate of Tabaristan, Suleyman ibn Musa, Half Drachm",
    "theme": "Money",
@@ -1956,7 +1841,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "852",
    "name": "Britain, Kingdom of Mercia, Burgred, Penny",
    "theme": "Money",
@@ -1973,7 +1857,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "899",
    "name": "Harun bin Khumarawayh, Dinar",
    "theme": "Money",
@@ -1990,7 +1873,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "976",
    "name": "Nomisma Coin of Basil II",
    "theme": "Money",
@@ -2007,7 +1889,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1000",
    "name": "Jiaozi currency",
    "theme": "Money",
@@ -2024,7 +1905,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1044",
    "name": "Earliest known written formula for gunpowder",
    "theme": "Money",
@@ -2041,7 +1921,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1101",
    "name": "Toweelah (hairpin)",
    "theme": "Money",
@@ -2058,7 +1937,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1184",
    "name": "Medieval Inquisition",
    "theme": "Environment",
@@ -2075,7 +1953,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1200",
    "name": "Spoon",
    "theme": "Money",
@@ -2092,7 +1969,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1200",
    "name": "Tally sticks",
    "theme": "Money",
@@ -2109,7 +1985,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1206",
    "name": "Mongol Empire",
    "theme": "Money",
@@ -2126,7 +2001,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1250",
    "name": "English Longbow",
    "theme": "Technology, War",
@@ -2143,7 +2017,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1252",
    "name": "Genovino",
    "theme": "Money",
@@ -2160,7 +2033,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1252",
    "name": "Florentine florin",
    "theme": "Money",
@@ -2177,7 +2049,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1300",
    "name": "Aztec Hoe",
    "theme": "Money",
@@ -2194,7 +2065,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1312",
    "name": "Mansa Musa",
    "theme": "Money",
@@ -2211,7 +2081,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1350",
    "name": "Spanish real",
    "theme": "Money",
@@ -2228,7 +2097,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1368",
    "name": "Yi Guan banknote",
    "theme": "Money",
@@ -2245,7 +2113,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1397",
    "name": "Medici Bank",
    "theme": "Money",
@@ -2262,7 +2129,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1400",
    "name": "Gold Ducat, Michael (Michele) Steno as Doge",
    "theme": "Money",
@@ -2279,7 +2145,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1400",
    "name": "Spanish Price Revolution",
    "theme": "Money",
@@ -2296,7 +2161,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1400",
    "name": "Gold spade",
    "theme": "Money",
@@ -2313,7 +2177,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1400",
    "name": "Gold eagle",
    "theme": "Money",
@@ -2330,7 +2193,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1440",
    "name": "Printing Press",
    "theme": "Technology",
@@ -2347,7 +2209,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1517",
    "name": "Protestant Reformation",
    "theme": "Language",
@@ -2364,7 +2225,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1544",
    "name": "Old Coppernose",
    "theme": "Money",
@@ -2381,7 +2241,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1557",
    "name": "Portuguese real",
    "theme": "Money",
@@ -2398,7 +2257,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1600",
    "name": "Unbroken money trees were good luck",
    "theme": "",
@@ -2415,7 +2273,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1637",
    "name": "Necklace of wampum",
    "theme": "Money",
@@ -2432,7 +2289,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1637",
    "name": "The Dutch Tulip Bubble",
    "theme": "Money",
@@ -2449,7 +2305,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1650",
    "name": "Nails",
    "theme": "Money",
@@ -2466,7 +2321,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1650",
    "name": "Musket bullets",
    "theme": "Money",
@@ -2483,7 +2337,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1650",
    "name": "Beaver pelts",
    "theme": "Money",
@@ -2500,7 +2353,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1661",
    "name": "Stockholms Banco Note",
    "theme": "Money",
@@ -2517,7 +2369,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1671",
    "name": "Pierre Petit's Arithmetic Cylinder",
    "theme": "Technology",
@@ -2534,7 +2385,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1672",
    "name": "Charles II Defaults on Royal Loans",
    "theme": "Money, Fiat",
@@ -2551,7 +2401,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1680",
    "name": "Early checks",
    "theme": "Money",
@@ -2568,7 +2417,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1690",
    "name": "Massachusetts Bay Colony notes",
    "theme": "Money",
@@ -2585,7 +2433,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1694",
    "name": "Sealing of the Bank of England Charter",
    "theme": "Money, Fiat",
@@ -2602,7 +2449,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1698.07",
    "name": "Steam Engine",
    "theme": "Technology",
@@ -2619,7 +2465,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1718",
    "name": "The Mississippi Bubble",
    "theme": "Money",
@@ -2636,7 +2481,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1720",
    "name": "The South Sea Bubble",
    "theme": "Money",
@@ -2653,7 +2497,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "60.8",
    "date_coord": "1740",
    "name": "Yap Stones",
    "theme": "Money",
@@ -2670,7 +2513,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1750",
    "name": "Glass trade beads",
    "theme": "Money",
@@ -2687,7 +2529,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1750",
    "name": "Jade coins",
    "theme": "Money",
@@ -2704,7 +2545,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1761",
    "name": "H4 chronometer",
    "theme": "Technology",
@@ -2721,7 +2561,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1776.08",
    "name": "Signing of the Declaration of Independence",
    "theme": "Language, Fiat",
@@ -2738,7 +2577,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1789.07",
    "name": "French Revolution: The Storming of the Bastille",
    "theme": "Language",
@@ -2755,7 +2593,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1790",
    "name": "Assignat",
    "theme": "Money",
@@ -2772,7 +2609,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1794",
    "name": "Silver dollar",
    "theme": "Money",
@@ -2789,7 +2625,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1795",
    "name": "An ad on a coin",
    "theme": "Money",
@@ -2806,7 +2641,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1797",
    "name": "Portugal's first paper money",
    "theme": "Money",
@@ -2823,7 +2657,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "68",
    "date_coord": "1800",
    "name": "Silver Bar",
    "theme": "Money",
@@ -2840,7 +2673,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "50",
    "date_coord": "1800",
    "name": "Zappozap",
    "theme": "Money",
@@ -2857,7 +2689,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "50",
    "date_coord": "1800",
    "name": "Bronze Tempo Coin",
    "theme": "Money",
@@ -2874,7 +2705,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1801",
    "name": "Gold eagle, $10",
    "theme": "Money",
@@ -2891,7 +2721,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1803",
    "name": "Note of 1000 francs germinal",
    "theme": "Money",
@@ -2908,7 +2737,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1804",
    "name": "1 Billion humans",
    "theme": "Environment",
@@ -2925,7 +2753,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1826",
    "name": "Essay on the principle of population",
    "theme": "Language, Fiat",
@@ -2942,7 +2769,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1827",
    "name": "The earliest saved photographic image",
    "theme": "Money",
@@ -2959,7 +2785,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1829",
    "name": "Bank War",
    "theme": "Money, Fiat",
@@ -2976,7 +2801,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1834",
    "name": "Houses of Lords and Commons fire",
    "theme": "Money",
@@ -2993,7 +2817,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1839",
    "name": "Three-legged coin",
    "theme": "Money",
@@ -3010,7 +2833,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1844",
    "name": "The First Long Distance Telegraph Message",
    "theme": "Technology",
@@ -3027,7 +2849,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1847",
    "name": "Lehman Brothers",
    "theme": "Money",
@@ -3044,7 +2865,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1848",
    "name": "California Gold Rush",
    "theme": "Money",
@@ -3061,7 +2881,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1848.02",
    "name": "The Communist Manifesto",
    "theme": "Language, Fiat",
@@ -3078,7 +2897,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "68",
    "date_coord": "1850",
    "name": "Shoe money",
    "theme": "Money",
@@ -3095,7 +2913,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1860",
    "name": "Morrocan Tree Money",
    "theme": "Money",
@@ -3112,7 +2929,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1861",
    "name": "Greenback $5 demand note",
    "theme": "Money, Fiat",
@@ -3129,7 +2945,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1865",
    "name": "Gold certificate",
    "theme": "Money, Fiat",
@@ -3146,7 +2961,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1866",
    "name": "Raffia cloth",
    "theme": "Money",
@@ -3163,7 +2977,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1868",
    "name": "Peseta",
    "theme": "Money, Fiat",
@@ -3180,7 +2993,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "50",
    "date_coord": "1875",
    "name": "Whale tooth",
    "theme": "Money",
@@ -3197,7 +3009,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1879.1",
    "name": "Light bulbs with a carbon filament",
    "theme": "Technology",
@@ -3214,7 +3025,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1903.12",
    "name": "The First Flight",
    "theme": "Technology",
@@ -3231,7 +3041,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1908.1",
    "name": "The Ford Model T",
    "theme": "Technology",
@@ -3248,7 +3057,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1911",
    "name": "Portuguese escudo",
    "theme": "Money, Fiat",
@@ -3265,7 +3073,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1911",
    "name": "International Business Machines Corporation (IBM)",
    "theme": "Technology",
@@ -3282,7 +3089,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1913",
    "name": "The Fed System",
    "theme": "Money, Fiat",
@@ -3299,7 +3105,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1914.06",
    "name": "Assassination of Archduke Franz Ferdinand",
    "theme": "War, Crisis",
@@ -3316,7 +3121,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "69",
    "date_coord": "1916",
    "name": "Velvet Mark, Silk Mark",
    "theme": "Money",
@@ -3333,7 +3137,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1919",
    "name": "1,000 rubles",
    "theme": "Money, Fiat",
@@ -3350,7 +3153,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "69",
    "date_coord": "1920.08",
    "name": "Ponzi surrenders to authorities",
    "theme": "Crisis",
@@ -3367,7 +3169,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1921",
    "name": "100,000 rubles",
    "theme": "Money, Fiat",
@@ -3384,7 +3185,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1922",
    "name": "Three million marks",
    "theme": "Money, Fiat",
@@ -3401,7 +3201,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1923.01",
    "name": "50 trillion (50 Billionen, 50×1012) marks",
    "theme": "Money, Fiat",
@@ -3418,7 +3217,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1923.11",
    "name": "5 Million Mark coin",
    "theme": "Money, Fiat",
@@ -3435,7 +3233,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1923.12",
    "name": "Two Rentenmark note,",
    "theme": "Money, Fiat",
@@ -3452,7 +3249,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "69",
    "date_coord": "1927",
    "name": "2 Billion humans",
    "theme": "Environment",
@@ -3469,7 +3265,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1928",
    "name": "$10 Gold Certificate",
    "theme": "Money, Fiat",
@@ -3486,7 +3281,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1930.04",
    "name": "Bank for International Settlements",
    "theme": "Money, Fiat",
@@ -3503,7 +3297,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1933.04",
    "name": "Executive Order 6102",
    "theme": "Money, Fiat",
@@ -3520,7 +3313,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1934",
    "name": "$100,000 Gold Certificate",
    "theme": "Money, Fiat",
@@ -3537,7 +3329,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1939",
    "name": "Bombe",
    "theme": "Technology",
@@ -3554,7 +3345,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1940",
    "name": "Nazi German 20 Reichsmark 1940 - 1945 Series",
    "theme": "Money, Fiat",
@@ -3571,7 +3361,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1942",
    "name": "2,000 yuan",
    "theme": "Money, Fiat",
@@ -3588,7 +3377,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1944",
    "name": "Five million drachmas",
    "theme": "Money, Fiat",
@@ -3605,7 +3393,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1944",
    "name": "100,000 drachmas",
    "theme": "Money, Fiat",
@@ -3622,7 +3409,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1944",
    "name": "Five million drachmas",
    "theme": "Money, Fiat",
@@ -3639,7 +3425,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1944",
    "name": "100,000 drachmas",
    "theme": "Money, Fiat",
@@ -3656,7 +3441,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1944.07",
    "name": "Brentonwoods",
    "theme": "Money, Fiat",
@@ -3673,7 +3457,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1945.06",
    "name": "Pengo - highest rate of hyperinflation ever recorded",
    "theme": "Money, Fiat",
@@ -3690,7 +3473,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1945.06",
    "name": "Charter of the United Nations",
    "theme": "Language, Fiat",
@@ -3707,7 +3489,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "69",
    "date_coord": "1945.08",
    "name": "Atomic bombing of Hiroshima and Nagasaki",
    "theme": "Crisis",
@@ -3724,7 +3505,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1945.12",
    "name": "International Monetary Fund",
    "theme": "Money, Fiat",
@@ -3741,7 +3521,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1947",
    "name": "AK-47",
    "theme": "Technology",
@@ -3758,7 +3537,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1949",
    "name": "One million yuan",
    "theme": "Money, Fiat",
@@ -3775,7 +3553,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1949.04",
    "name": "NATO",
    "theme": "Language, Fiat",
@@ -3792,7 +3569,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1950.02",
    "name": "Diners Club International",
    "theme": "Money, Fiat",
@@ -3809,7 +3585,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1951.12",
    "name": "Experimental Breeder Reactor I",
    "theme": "Technology",
@@ -3826,7 +3601,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1958.09",
    "name": "First integrated circuit",
    "theme": "Technology",
@@ -3843,7 +3617,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "69",
    "date_coord": "1960",
    "name": "3 Billion humans",
    "theme": "Environment",
@@ -3860,7 +3633,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1963.11",
    "name": "Assassination of John F. Kennedy",
    "theme": "Environment",
@@ -3877,7 +3649,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1964",
    "name": "M-16",
    "theme": "Technology",
@@ -3894,7 +3665,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1969",
    "name": "Internet",
    "theme": "Technology",
@@ -3911,7 +3681,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1969.1",
    "name": "First ARPANET IMP log",
    "theme": "Technology",
@@ -3928,7 +3697,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1970",
    "name": "Public-Key Cryptography Invented in Secret",
    "theme": "Technology",
@@ -3945,7 +3713,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1971.01",
    "name": "World Economic Forum",
    "theme": "Language, Fiat",
@@ -3962,7 +3729,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1971.08",
    "name": "Nixon shock",
    "theme": "Money, Fiat",
@@ -3979,7 +3745,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1973.1",
    "name": "The 1973 oil crisis",
    "theme": "Environment",
@@ -3996,7 +3761,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1974",
    "name": "TCP/IP",
    "theme": "Technology",
@@ -4013,7 +3777,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "76",
    "date_coord": "1974",
    "name": "4 Billion humans",
    "theme": "Environment",
@@ -4030,7 +3793,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1976",
    "name": "Public Key Cryptography",
    "theme": "Technology",
@@ -4047,7 +3809,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1976",
    "name": "Visa",
    "theme": "Money, Fiat",
@@ -4064,7 +3825,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1978.11",
    "name": "UK’s Winter of Discontent",
    "theme": "Money, Crisis",
@@ -4081,7 +3841,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1984",
    "name": "Ludwig Wittgenstein",
    "theme": "Language",
@@ -4098,7 +3857,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "77.5",
    "date_coord": "1987",
    "name": "5 Billion humans",
    "theme": "Environment",
@@ -4115,7 +3873,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1989.3",
    "name": "WWW - World Wide Web",
    "theme": "Technology",
@@ -4132,7 +3889,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1990",
    "name": "Credit default swap",
    "theme": "Money, Fiat",
@@ -4149,7 +3905,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1993.04",
    "name": "A Cypherpunk's Manifesto",
    "theme": "Language",
@@ -4166,7 +3921,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1994.01",
    "name": "CFA Franc overnight 50% devaluation.",
    "theme": "Money, Crisis",
@@ -4183,7 +3937,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1997",
    "name": "HashCash, DOS counter-measure w/ proof-of-work",
    "theme": "Technology",
@@ -4200,7 +3953,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "80.5",
    "date_coord": "1998",
    "name": "6 Billion humans",
    "theme": "Environment",
@@ -4217,7 +3969,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1998.09",
    "name": "Long-Term Capital Management Bail Out",
    "theme": "Money, Crisis, Fiat",
@@ -4234,7 +3985,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1998.09",
    "name": "Google",
    "theme": "Technology",
@@ -4251,7 +4001,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "1998.12",
    "name": "Paypal",
    "theme": "Money, Technology, Fiat",
@@ -4268,7 +4017,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2000.04",
    "name": "Dot com burst",
    "theme": "Money, Crisis, Fiat",
@@ -4285,7 +4033,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2001.12",
    "name": "Enron Bankruptcy",
    "theme": "Money, Crisis, Fiat",
@@ -4302,7 +4049,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2003.03",
    "name": "Invasion of Iraq",
    "theme": "Crisis, Fiat",
@@ -4319,7 +4065,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2004.8",
    "name": "RPOW - Reusable Proofs of Work",
    "theme": "Money, Bitcoin",
@@ -4336,7 +4081,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2007.06",
    "name": "iPhone",
    "theme": "Technology",
@@ -4353,7 +4097,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "87",
    "date_coord": "2007.08",
    "name": "Ginko Financials",
    "theme": "Money, Crisis",
@@ -4370,7 +4113,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2008.05",
    "name": "Hyperinflation in Zimbabwe",
    "theme": "Money, Fiat",
@@ -4387,7 +4129,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2008.1",
    "name": "Troubled Assets Relief Program (TARP)",
    "theme": "Money, Crisis",
@@ -4404,7 +4145,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2008.1",
    "name": "Bitcoin White Paper",
    "theme": "Money, Bitcoin",
@@ -4421,7 +4161,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2008.11",
    "name": "QE1",
    "theme": "Money",
@@ -4438,7 +4177,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2009.01",
    "name": "Genesis Block",
    "theme": "Money, Bitcoin",
@@ -4455,7 +4193,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "87.5",
    "date_coord": "2010",
    "name": "7 Billion humans",
    "theme": "Environment",
@@ -4472,7 +4209,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2010",
    "name": "Mt. Gox",
    "theme": "Money, Bitcoin",
@@ -4489,7 +4225,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2010.11",
    "name": "QE2",
    "theme": "Money",
@@ -4506,7 +4241,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2010.11",
    "name": "Basel III",
    "theme": "Money, Fiat",
@@ -4523,7 +4257,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2012",
    "name": "Bitcoin Magazine",
    "theme": "Language, Bitcoin",
@@ -4540,7 +4273,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2012",
    "name": "Coinbase",
    "theme": "Money, Bitcoin, Fiat, Shitcoin",
@@ -4557,7 +4289,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2012.08",
    "name": "QE3",
    "theme": "Money, Fiat",
@@ -4574,7 +4305,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "88",
    "date_coord": "2012.11",
    "name": "Bitcoin Halving #1",
    "theme": "Money, Bitcoin",
@@ -4591,7 +4321,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2013.01",
    "name": "First ASIC 130 nm chip",
    "theme": "Money, Bitcoin",
@@ -4608,7 +4337,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2013.05",
    "name": "Liberator",
    "theme": "Technology",
@@ -4625,7 +4353,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2013.1",
    "name": "Cash App",
    "theme": "Money",
@@ -4642,7 +4369,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2015",
    "name": "Fourth Industrial Revolution",
    "theme": "Language, Fiat",
@@ -4659,7 +4385,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2015",
    "name": "Agenda 2030 - Sustainable Development Goals",
    "theme": "Language, Fiat",
@@ -4676,7 +4401,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2015.07",
    "name": "Ethereum Launch",
    "theme": "Money, Shitcoin",
@@ -4693,7 +4417,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2016.05",
    "name": "Bitmain Antminer S9",
    "theme": "Money, Technology",
@@ -4710,7 +4433,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "88",
    "date_coord": "2016.07",
    "name": "Bitcoin Halving #2",
    "theme": "Money, Bitcoin",
@@ -4727,7 +4449,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2017.08",
    "name": "Bitcoin Cash",
    "theme": "Money, Shitcoin",
@@ -4744,7 +4465,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2017.08",
    "name": "SegWit",
    "theme": "Money",
@@ -4761,7 +4481,22 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "88",
+   "date_coord": "2018.04",
+   "name": "The Bitcoin Standard: The Decentralized Alternative to Central Banking",
+   "theme": "Language, Bitcoin",
+   "dates": "April 24, 2018",
+   "location": "USA",
+   "description": "by Saifedean Ammous\nA comprehensive and authoritative exploration of Bitcoin and its place in monetary history",
+   "src1": "https://saifedean.com/thebitcoinstandard/",
+   "src2": "https://www.amazon.com/gp/product/1119473861/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119473861&linkCode=as2&tag=saifedean-20&linkId=7d21311d79bf78be5588985186164b82",
+   "image1src": "https://877896.smushcdn.com/2020143/wp-content/uploads/2022/08/TBS_rub.png?size=1280x1273&lossy=1&strip=1&webp=1",
+   "image1": "",
+   "image2src": "",
+   "image2": "",
+   "image3src": "",
+   "image3": ""
+ },
+ {
    "date_coord": "2019.05",
    "name": "Oculus Quest",
    "theme": "Technology",
@@ -4778,7 +4513,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "88",
    "date_coord": "2019.06",
    "name": "BitBox02",
    "theme": "Technology, Bitcoin",
@@ -4795,7 +4529,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "88",
    "date_coord": "2019.1",
    "name": "Coldcard Mk3",
    "theme": "Technology",
@@ -4812,7 +4545,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2020.03",
    "name": "CARES Act",
    "theme": "Money, Fiat",
@@ -4829,7 +4561,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "88",
    "date_coord": "2020.04",
    "name": "Sparrow Wallet",
    "theme": "Technology, Bitcoin",
@@ -4846,7 +4577,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "96",
    "date_coord": "2020.05",
    "name": "Bitcoin Halving #3",
    "theme": "Money, Bitcoin",
@@ -4863,7 +4593,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "99.1",
    "date_coord": "2021.06",
    "name": "El Salvador makes bitcoin legal tender",
    "theme": "Money, Fiat",
@@ -4880,7 +4609,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2021.11",
    "name": "CBDCs Are The Future",
    "theme": "Money, Fiat",
@@ -4897,7 +4625,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2022.02",
    "name": "Invasion of Ukraine",
    "theme": "Crisis",
@@ -4914,7 +4641,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2022.03",
    "name": "Argentine Congress Approves IMF Debt Deal That Would Discourage Crypto Usage",
    "theme": "Money, Fiat",
@@ -4931,7 +4657,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2022.08",
    "name": "H.R.5376 - Inflation Reduction Act of 2022",
    "theme": "Money",
@@ -4948,7 +4673,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2022.11",
    "name": "FTX bankruptcy proceedings",
    "theme": "Money, Fiat, Shitcoin",
@@ -4965,7 +4689,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "97",
    "date_coord": "2023",
    "name": "8 Billion humans",
    "theme": "Environment",
@@ -4982,7 +4705,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "",
    "date_coord": "2023.05",
    "name": "Bitcoin 2023",
    "theme": "",
@@ -4999,7 +4721,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "96",
    "date_coord": "2024",
    "name": "Bitcoin Halving #4",
    "theme": "Money, Bitcoin",
@@ -5016,7 +4737,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "98",
    "date_coord": "2037",
    "name": "9 Billion humans (projected)",
    "theme": "Environment",
@@ -5033,7 +4753,6 @@ timelineData =
    "image3": ""
  },
  {
-   "left_shift": "98",
    "date_coord": "2049.5",
    "name": "10 Billion humans (projected)",
    "theme": "Environment",
