@@ -257,6 +257,9 @@ th {
 
 
 
+
+
+
 #prev-next {
     padding: 10px;
     position:absolute;
@@ -269,13 +272,14 @@ th {
     margin: 3px;
     display: inline-block;
     cursor: pointer;
-};
 }
 
 
 
 
+
 @media only screen and (max-width: 700px) {
+
   #branding #branding1 img, #branding #branding2 img {
     height: 27px;
   }
@@ -285,6 +289,7 @@ th {
   h1 {
     font-size: 23px;
     top: -2px;
+    right: 4px;
     text-align: right;
     max-width: 60vw;
   }
@@ -297,4 +302,5 @@ th {
   .element-description {
     max-width: 90vw;
   }
+
 }
