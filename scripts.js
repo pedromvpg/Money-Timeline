@@ -157,61 +157,64 @@ $( document ).ready(function() {
   $.each( timelineData, function( key, val ) {
     //console.log(val);
 
-
-    image1 = '';
-    if( val.image1src != undefined){
-      image1 = `<img class="event-image" src="${val.image1src}" />`;
-    }
-
-    image2 = '';
-    if( val.image2src != undefined){
-      image2 = `<img class="event-image" src="${val.image2src}" />`;
-    }
+    if( val.visibility == 1){
 
 
-    src1 = '';
-    if( val.src1 != ''){
-      src1 = `<a target="_blank" href="${val.src1}">source</a>`;
-    }
-    src2 = '';
-    if( val.src2 != ''){
-      src2 = ` | <a target="_blank" href="${val.src2}">source</a>`;
-    }
+          image1 = '';
+          if( val.image1src != undefined){
+            image1 = `<img class="event-image" src="${val.image1src}" />`;
+          }
 
-    //https://www.desmos.com/calculator/fqh9gincyg
-    //https://math.stackexchange.com/questions/4573741/logarithmic-equation-to-map-values-between-0-and-100-based-on-dates
-
-    date = val.date_coord
-    shift = 196.792-175.283*Math.log10(Math.log10(2051-date)+3.5662);
+          image2 = '';
+          if( val.image2src != undefined){
+            image2 = `<img class="event-image" src="${val.image2src}" />`;
+          }
 
 
+          src1 = '';
+          if( val.src1 != ''){
+            src1 = `<a target="_blank" href="${val.src1}">source</a>`;
+          }
+          src2 = '';
+          if( val.src2 != ''){
+            src2 = ` | <a target="_blank" href="${val.src2}">source</a>`;
+          }
 
-    // Themes
-    let regex = /,/g;
-    let classes = val.theme;
-    let filterHolder = [];
-    classes = classes.replace(regex, " ");
-    classes = classes.replace("  ", " ");
-    filterHolder = classes.split(/(\s+)/);
-    $.each(filterHolder, function( i, val ) {
-      if(val != " " && val != ""){
-        filters.push({ html:'<div class="filter-trigger" data-theme="'+val+'">'+val+'</a>' });
+          //https://www.desmos.com/calculator/fqh9gincyg
+          //https://math.stackexchange.com/questions/4573741/logarithmic-equation-to-map-values-between-0-and-100-based-on-dates
+
+          date = val.date_coord
+          shift = 196.792-175.283*Math.log10(Math.log10(2051-date)+3.5662);
+
+
+
+          // Themes
+          let regex = /,/g;
+          let classes = val.theme;
+          let filterHolder = [];
+          classes = classes.replace(regex, " ");
+          classes = classes.replace("  ", " ");
+          filterHolder = classes.split(/(\s+)/);
+          $.each(filterHolder, function( i, val ) {
+            if(val != " " && val != ""){
+              filters.push({ html:'<div class="filter-trigger" data-theme="'+val+'">'+val+'</a>' });
+            }
+          });
+
+
+          items.push(
+            `<li id='${key}' style='padding-left: ${shift}%' class='event-element ${classes}'>
+              <div id='event-${key}' class='event-element-inner'>
+                ${image1} ${image2}
+                <h3 class="element-name">${val.name}</h3>
+                <div class="element-dates">${val.dates}</div>
+                <div class="element-description">${val.description}</div>
+                <div class="element-source">${src1} ${src2}</div>
+              </div>
+            </li>`
+          );
+
       }
-    });
-
-
-    items.push(
-      `<li id='${key}' style='padding-left: ${shift}%' class='event-element ${classes}'>
-        <div id='event-${key}' class='event-element-inner'>
-          ${image1} ${image2}
-          <h3 class="element-name">${val.name}</h3>
-          <div class="element-dates">${val.dates}</div>
-          <div class="element-description">${val.description}</div>
-          <div class="element-source">${src1} ${src2}</div>
-        </div>
-      </li>`
-    );
-
 
   });
 
