@@ -4687,7 +4687,7 @@ timelineData =
     "src2": "https://en.wikipedia.org/wiki/Economy_of_Second_Life",
     "image1src": "https://www.economist.com/img/b/1280/1048/90/sites/default/files/cf_images/20070818/3307FN2.jpg",
     "image1": "",
-    "image2src": "http://alphavilleherald.com/images/2007-small/08/05/ginko_001.jpg",
+    "image2src": "http://virtuallyblind.com/images/ginko_crowd.jpg",
     "image2": "",
     "image3src": "",
     "image3": ""
