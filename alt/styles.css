@@ -1,6 +1,6 @@
 @font-face {
   font-family: "BureauGrotesque";
-  src: url("../assets/fonts/BureauGrotesque/BureauGrotesque.eot");
+  src: url("https://timelineofmoney.com//assets/fonts/BureauGrotesque/BureauGrotesque.eot");
   src: url("../assets/fonts/BureauGrotesque/BureauGrotesque.eot?#iefix") format("embedded-opentype"),
   url("../assets/fonts/BureauGrotesque/BureauGrotesque.woff2") format("woff2"),
   url("../assets/fonts/BureauGrotesque/BureauGrotesque.woff") format("woff"),
@@ -15,14 +15,23 @@ html, body, button {
   font-family: 'Inter', sans-serif;
 }
 
-h1{
+h1, h2{
   font-family: 'BureauGrotesque', sans-serif;
   text-transform: uppercase;
+  letter-spacing: -0.01em;
+}
+
+h1 {
   font-size: 120px;
   margin-top: -50px;
   line-height: 0.8em;
   font-weight: 100;
   letter-spacing: -0.03em;
+}
+
+a{
+  color: rgba(255,255,255, 0.3);
+  font-size: 14px;
 }
 
 
