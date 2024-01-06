@@ -64,11 +64,7 @@ $( document ).ready(function() {
 
 
 
-
-
-
-  $('html').on('mousewheel DOMMouseScroll scroll', function(event){
-
+  $(window).scroll(function () {
     $('.event-element').each(function(i, el){
        if ($(this).isInViewport( ($(window).height() / 2) )) {
         $('.event-element').removeClass('active');
@@ -77,7 +73,20 @@ $( document ).ready(function() {
         //$('html').scrollLeft( $(this).find(".event-element-inner").offset().left - ($(window).width() / 2) + 200  );
        }
     })
+  });
 
+
+  $('html').on('mousewheel DOMMouseScroll scroll', function(event){
+    /*
+    $('.event-element').each(function(i, el){
+       if ($(this).isInViewport( ($(window).height() / 2) )) {
+        $('.event-element').removeClass('active');
+        $(this).addClass('active');
+        $('html, body').stop().animate({scrollLeft: $(this).find(".event-element-inner").offset().left - ($(window).width() / 2) + 200 }, 50);
+        //$('html').scrollLeft( $(this).find(".event-element-inner").offset().left - ($(window).width() / 2) + 200  );
+       }
+    })
+    */
     /*
       //event.preventDefault();
       var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
