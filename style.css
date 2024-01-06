@@ -49,6 +49,11 @@ a {
     text-decoration: none;
 }
 
+
+a h3{
+    color: #fff;
+}
+
 h1{
   width: 100vw;
   position: fixed;
@@ -303,4 +308,10 @@ th {
     max-width: 90vw;
   }
 
+}
+
+
+
+.active{
+  background: #212121
 }

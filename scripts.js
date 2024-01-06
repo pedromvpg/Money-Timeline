@@ -34,7 +34,51 @@ $( document ).ready(function() {
     }
   });
 
+
+
+
+
+
+
+
+
+
+
+
+  $.fn.isInViewport = function (offset) {
+      let elementTop = $(this).offset().top + offset;
+      let elementBottom = elementTop + $(this).outerHeight();
+
+      let viewportTop = $(window).scrollTop();
+      let viewportBottom = viewportTop + $(window).height();
+
+      return elementBottom > viewportTop && elementTop < viewportBottom;
+  };
+
+
+
+
+
+
+
+
+
+
+
+
+
   $('html').on('mousewheel DOMMouseScroll scroll', function(event){
+
+    $('.event-element').each(function(i, el){
+       if ($(this).isInViewport( ($(window).height() / 2) )) {
+        $('.event-element').removeClass('active');
+        $(this).addClass('active');
+        $('html, body').stop().animate({scrollLeft: $(this).find(".event-element-inner").offset().left - ($(window).width() / 2) + 200 }, 50);
+        //$('html').scrollLeft( $(this).find(".event-element-inner").offset().left - ($(window).width() / 2) + 200  );
+       }
+    })
+
+    /*
       //event.preventDefault();
       var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
       //console.log($(window).scrollTop());
@@ -43,7 +87,7 @@ $( document ).ready(function() {
         //console.log("---> 0");
       }else if($(window).scrollTop() >= 3800 && $(window).scrollTop() < 4600){
         $(this).scrollLeft( $(this).scrollLeft() - ( delta * 2 ) );
-        //console.log("---> *2");
+        console.log("---> *2");
       }else if($(window).scrollTop() >= 4600 && $(window).scrollTop() < 4800){
         $(this).scrollLeft( $(this).scrollLeft() - ( delta * 8 ) );
         //console.log("---> *8");
@@ -54,6 +98,7 @@ $( document ).ready(function() {
         $(this).scrollLeft( $(this).scrollLeft() - ( delta / 1.5) );
         //console.log("---> *1");
       }
+    */
   });
 
 
@@ -120,7 +165,7 @@ $( document ).ready(function() {
 
   var date,shift;
   var items = [];
-
+  var currentID = "";
 
   $.each( timelineHeaderData, function( key, val ) {
 
@@ -201,16 +246,20 @@ $( document ).ready(function() {
             }
           });
 
-
+          currentID = val.name.replace(/[^a-zA-Z0-9_-]/g,'').toLowerCase();
           items.push(
-            `<li id='${key}' style='padding-left: ${shift}%' class='event-element ${classes}'>
+            `<li id='${currentID}' style='padding-left: ${shift}%' class='event-element ${classes}'>
+
               <div id='event-${key}' class='event-element-inner'>
                 ${image1} ${image2}
-                <h3 class="element-name">${val.name}</h3>
+                <a href="#${currentID}">
+                  <h3 class="element-name">${val.name}</h3>
+                </a>
                 <div class="element-dates">${val.dates}</div>
                 <div class="element-description">${val.description}</div>
                 <div class="element-source">${src1} ${src2}</div>
               </div>
+
             </li>`
           );
 
@@ -231,6 +280,15 @@ $( document ).ready(function() {
   });
 
 
+
+  var hash = window.location.hash.substring(1);
+  if(hash !== undefined){
+    $('html, body').stop().animate({
+      scrollLeft: $('#'+hash).find(".event-element-inner").offset().left - ($(window).width() / 2) + 200,
+      scrollTop: $('#'+hash).find(".event-element-inner").offset().top - ($(window).height() / 2) + 200
+    }, 100);
+    $('#'+hash).addClass('active')
+  }
 
 
 
